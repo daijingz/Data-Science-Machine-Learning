@@ -4,18 +4,16 @@ Data science and machine learning projects
 Part 1: **Stanford Machine Learning Course Notes**
 
 * Week 1: Introduction to Machine Learning (https://github.com/daijingz/Data-Science-Machine-Learning/blob/main/Documentation/Week_1.ipynb)
-* Week 2
-* Week 3
-* Week 4
-* Week 5
-* Week 6
-* Week 7
-* Week 8
-* Week 9
-* Week 10
-* Week 11
-* Week 12
-* Week 13
+* Week 2: Linear Regression with Multiple Variables
+* Week 3: Logistic Regression
+* Week 4: Neural Networks: Representation
+* Week 5: Neural Networks: Learning
+* Week 6: Advice for Applying Machine Learning
+* Week 7: Support Vector Machines
+* Week 8: Unsupervised Learning
+* Week 9: Anomaly Detection
+* Week 10: Large Scale Machine Learning
+* Week 11: Application Example: Photo OCR
 
 Course notes from stanford machine learning courses, including my own understandings on lecture contents.
 
