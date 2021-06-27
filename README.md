@@ -20,7 +20,8 @@ Part 1: **Stanford Machine Learning Course Notes**
 Course notes from stanford machine learning courses, including my own understandings on lecture contents.
 (PLease visit **folders Week1 - Week11** https://github.com/daijingz/Data-Science-Machine-Learning/tree/main/Documentation)
 
-Part 2: **Simple database system**
+Part 2: **davidteam (David's real estate team (ASSUME David is a sales representative of a real estate team))**
+The project "**davidteam**" is a simulated real estate team in David's imagination. It has a database that includes all informations that this real estate team has.
 
 # Contact
 daij24@mcmaster.ca
