@@ -24,7 +24,8 @@ Part 2: **davidteam (David's real estate team (ASSUME David is a sales represent
 The project "**davidteam**" is a simulated real estate team in David's imagination. It has a database that includes all informations that this real estate team has.
 
 # Contact
-daij24@mcmaster.ca
-**(preferred)**
+**Preferred Email**: daij24@mcmaster.ca
+**Email**: david1147062956@163.com
 
-david1147062956@163.com
+**Linkedin Account**: https://www.linkedin.com/in/jingze-dai/
+**Github Account**: https://github.com/daijingz 
