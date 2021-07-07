@@ -23,6 +23,10 @@ Part 2: **davidteam (David's real estate team (ASSUME David is a sales represent
 
 The project "**davidteam**" is a simulated real estate team in David's imagination. It has a database that includes all informations that this real estate team has.
 
+Part 3: **MoleWorld Farming and Fishing database (data science projects)**
+
+Since June 1st, 2021, an old Chinese game "MoldWorld" has mobile game editions.
+
 # Contact
 **Preferred Email**: daij24@mcmaster.ca
 **Email**: david1147062956@163.com
