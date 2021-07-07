@@ -25,7 +25,11 @@ The project "**davidteam**" is a simulated real estate team in David's imaginati
 
 Part 3: **MoleWorld Farming and Fishing database (data science projects)**
 
-Since June 1st, 2021, an old Chinese game "MoldWorld" has mobile game editions.
+Since June 1st, 2021, an old Chinese game "MoleWorld" has mobile game editions. It is a game about farming, fishing and cooking. Each player is a mole, that owns a farm.
+
+Part 4: **IBM Data Science Projects**
+
+This is a project 
 
 # Contact
 **Preferred Email**: daij24@mcmaster.ca
