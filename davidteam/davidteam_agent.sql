@@ -16,20 +16,18 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 --
--- Table structure for table `house`
+-- Table structure for table `agent`
 --
 
-DROP TABLE IF EXISTS `house`;
+DROP TABLE IF EXISTS `agent`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!50503 SET character_set_client = utf8mb4 */;
-CREATE TABLE `house` (
-  `id` int NOT NULL,
-  `address` varchar(45) COLLATE utf8_bin NOT NULL,
-  `emtvalue` int NOT NULL,
-  `owner` varchar(45) COLLATE utf8_bin NOT NULL,
-  `distts` double NOT NULL,
-  PRIMARY KEY (`id`),
-  UNIQUE KEY `id_UNIQUE` (`id`)
+CREATE TABLE `agent` (
+  `idagent` int NOT NULL,
+  `name` varchar(45) COLLATE utf8_bin NOT NULL,
+  `telnum` int NOT NULL,
+  `email` varchar(45) COLLATE utf8_bin NOT NULL,
+  PRIMARY KEY (`idagent`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb3 COLLATE=utf8_bin;
 /*!40101 SET character_set_client = @saved_cs_client */;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
