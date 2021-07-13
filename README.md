@@ -3,7 +3,7 @@ Data science and machine learning projects
 
 Part 1: **Stanford Machine Learning Course Notes**
 
-* Week 1: Introduction to Machine Learning (https://github.com/daijingz/Data-Science-Machine-Learning/blob/main/Documentation/Week_1.ipynb)
+* Week 1: Introduction to Machine Learning (https://github.com/daijingz/Data-Science-Machine-Learning/blob/main/Machine%20Learning%20Notes/Week_1.ipynb)
 * Week 2: Linear Regression with Multiple Variables
 * Week 3: Logistic Regression
 * Week 4: Neural Networks: Representation
