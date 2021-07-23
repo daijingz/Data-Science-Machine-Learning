@@ -29,7 +29,7 @@ Since June 1st, 2021, an old Chinese game "MoleWorld" has mobile game editions. 
 
 Part 4: **IBM Data Science Projects**
 
-This is a project 
+This is a project from IBM Data Science Coursera courses.
 
 # Contact
 **Preferred Email**: daij24@mcmaster.ca
