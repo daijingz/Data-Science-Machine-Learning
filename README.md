@@ -21,7 +21,7 @@ Course notes from stanford machine learning courses, including my own understand
 
 Part 2: **davidteam (David's real estate team (ASSUME David is a sales representative of a real estate team))**
 
-The project "**davidteam**" is a simulated real estate team in David's imagination. It has a database that includes all informations that this real estate team has.
+The project "**davidteam**" is a simulated real estate team in David's imagination. It has a database that includes all information that this real estate team has (i.e. housing information, financial information).
 
 Part 3: **MoleWorld Farming and Fishing database (data science projects)**
 
