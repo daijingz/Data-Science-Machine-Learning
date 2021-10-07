@@ -1,5 +1,5 @@
 # Data-Science-Machine-Learning
-Data science and machine learning projects
+Related Topics: Machine Learning, Data Visualization, Data Analysis, Database Using and Designs
 
 Part 1: **Stanford Machine Learning Course Notes**
 
