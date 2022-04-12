@@ -19,6 +19,11 @@ Course notes from stanford machine learning courses, including my own understand
 
 (PLease visit **folders Week1 - Week11** https://github.com/daijingz/Data-Science-Machine-Learning/tree/main/Documentation)
 
+
+Part 2: **Elementary Data Analytics**
+
+Based on some kaggle datasets, 
+
 # Contact
 **Preferred Email**: daij24@mcmaster.ca
 **Email**: david1147062956@163.com
