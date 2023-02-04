@@ -86,8 +86,18 @@ Directors = []
 
 def findDirectors(Dir: list):
     for i in dataset0['Director']:
-        if Dir.count(i) == 0 and i != 'Unknown':
-            Dir += [i]
+        temp = []
+        if ' and ' in i:
+            temp = i.split(' and ')
+        elif ', ' in i:
+            temp = i.split(', ')
+        else:
+            temp += [i]
+
+        if len(temp) > 0:
+            for j in temp:
+                if Dir.count(j) == 0 and j != 'Unknown':
+                    Dir += [j.replace('[', '').replace(']', '').replace('\'', '')]
 
 
 FileIO('C:\\Users\\david\\Downloads\\archive\\wiki_movie_plots_deduped.csv')
@@ -97,3 +107,4 @@ dataframe0 = pd.DataFrame(data=dataset0)
 Overall('C:\\Users\\david\\Downloads\\archive\\wiki_movie_plots_deduped.csv')
 findDirectors(Directors)
 print(str(Directors))
+print(len(Directors))
