@@ -4,7 +4,7 @@ dataset0 = {'Release Year': [], 'Title': [], 'Origin/Ethnicity': [], 'Director':
             'Cast': [], 'Genre': [], 'Wiki Page': [], 'Plot': []}
 
 
-def FileIO(address: str):
+def file_input_output(address: str):
     df = pd.read_csv(address)
     for i in df['Release Year']:
         dataset0['Release Year'] += [i]
@@ -17,10 +17,10 @@ def FileIO(address: str):
 
     Dir = []
     for i in df['Director']:
-        if ', ' in i:
-            realName = i.split(', ')
-        elif ' and ' in i:
-            realName = i.split(' and ')
+        if ', ' in str(i):
+            realName = str(i).split(', ')
+        elif ' and ' in str(i):
+            realName = str(i).split(' and ')
         else:
             realName = []
         if len(realName) > 0:
@@ -29,8 +29,16 @@ def FileIO(address: str):
             Dir += [i]
     dataset0['Director'] = Dir
 
+    Cast = []
     for i in df['Cast']:
-        dataset0['Cast'] += [i]
+        if i == 'nan':
+            realName = ['Nothing']
+        elif ', ' in str(i):
+            realName = str(i).split(', ')
+        else:
+            realName = [i]
+        Cast += [realName]
+    dataset0['Cast'] = Cast
 
     for i in df['Genre']:
         dataset0['Genre'] += [i]
@@ -42,7 +50,7 @@ def FileIO(address: str):
         dataset0['Plot'] += [i]
 
 
-def Overall(address: str):
+def overall(address: str):
     df = pd.read_csv(address)
     print("Total Movies: " + str(len(df)))
 
@@ -84,7 +92,7 @@ def Overall(address: str):
 Directors = []
 
 
-def findDirectors(Dir: list):
+def find_directors(Dir: list):
     for i in dataset0['Director']:
         temp = []
         if ' and ' in i:
@@ -100,11 +108,17 @@ def findDirectors(Dir: list):
                     Dir += [j.replace('[', '').replace(']', '').replace('\'', '')]
 
 
-FileIO('C:\\Users\\david\\Downloads\\archive\\wiki_movie_plots_deduped.csv')
+def remove_duplicates(df: pd.DataFrame):
+    print(df['Title'].duplicated())
+
+
+file_input_output('C:\\Users\\david\\Downloads\\archive\\wiki_movie_plots_deduped.csv')
 dataframe0 = pd.DataFrame(data=dataset0)
 # print(dataframe0)
+remove_duplicates(dataframe0)
+# print(dataframe0)
 
-Overall('C:\\Users\\david\\Downloads\\archive\\wiki_movie_plots_deduped.csv')
-findDirectors(Directors)
-print(str(Directors))
-print(len(Directors))
+overall('C:\\Users\\david\\Downloads\\archive\\wiki_movie_plots_deduped.csv')
+find_directors(Directors)
+# print(str(Directors))
+# print(len(Directors))
