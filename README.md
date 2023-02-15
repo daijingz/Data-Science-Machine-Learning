@@ -19,3 +19,5 @@ Dataset: https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots
 The result will be shown in a jupyterhub notebook. Current File: **Movies/Data_Prep.py**
 
 Assume this is the complete movie statistics.
+
+## Section 2.1: Data Manipulation, Analysis and Visualization
