@@ -8,4 +8,4 @@ Available in the repository **Machine Learning Notes** and **Coursera Capstone**
 
 References: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?resource=download
 
-A combination of 
+A combination of classification sub-projects:
