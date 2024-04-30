@@ -1,6 +1,12 @@
 # Part 1: Online course materials
 
-Includes online machine learning and data science course materials. 
+Includes online machine learning and its advanced topics courses' early-stage attempts.
+
+There are 4 courses inside:
+1. Coursera IBM data science series
+2. Coursera Machine Learning
+3. Udemy Machine Learning
+4. Udemy Deep Learning
 
 Now available in the repository [Machine Learning Notes](https://github.com/daijingz/Data-Science-Machine-Learning/blob/main/Machine%20Learning%20Notes/Week_1.ipynb) and [Coursera Capstone](https://github.com/daijingz/Data-Science-Machine-Learning/tree/main/Coursera%20Capstone)
 
