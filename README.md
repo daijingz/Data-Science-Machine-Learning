@@ -2,7 +2,7 @@
 
 Includes online machine learning and data science course materials. 
 
-Available in the repository **Machine Learning Notes** and **Coursera Capstone**
+Now available in the repository [Machine Learning Notes](https://github.com/daijingz/Data-Science-Machine-Learning/blob/main/Machine%20Learning%20Notes/Week_1.ipynb) and [Coursera Capstone](https://github.com/daijingz/Data-Science-Machine-Learning/tree/main/Coursera%20Capstone)
 
 # Part 2: Movie Regression and Classification Problems
 
