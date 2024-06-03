@@ -18,6 +18,6 @@ References: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?resource=do
 
 A combination of classification sub-projects:
 1. [Analyze both datasets with visualized diagrams](https://github.com/daijingz/Data-Science-Machine-Learning/blob/main/Movies/Movie%20Data%20Analysis.ipynb)
-2. Movie Rating Prediction systems
-3. Movie Genre Classification Models
-4. Deep Learning: Writing subtitles for movies
+2. Movie Rating Prediction systems (TODO)
+3. Movie Genre Classification Models (TODO)
+4. Deep Learning: Writing subtitles for movies (TODO)
