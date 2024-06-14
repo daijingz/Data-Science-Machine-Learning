@@ -10,7 +10,9 @@ There are 4 courses inside:
 3. Udemy Machine Learning
 4. Udemy Deep Learning
 
-Now available in the repository [Machine Learning Notes](https://github.com/daijingz/Data-Science-Machine-Learning/blob/main/Machine%20Learning%20Notes/Week_1.ipynb) and [Coursera Capstone](https://github.com/daijingz/Data-Science-Machine-Learning/tree/main/Coursera%20Capstone)
+Now available in these 4 repositories:
+[Machine Learning Notes](https://github.com/daijingz/Data-Science-Machine-Learning/blob/main/Machine%20Learning%20Notes/Week_1.ipynb)
+[Coursera Capstone](https://github.com/daijingz/Data-Science-Machine-Learning/tree/main/Coursera%20Capstone)
 
 # Part 2: Movie Regression and Classification Problems
 
