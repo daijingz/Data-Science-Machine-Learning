@@ -25,3 +25,32 @@ A combination of classification sub-projects:
 2. Movie Rating Prediction systems (TODO)
 3. Movie Genre Classification Models (TODO)
 4. Deep Learning: Writing subtitles for movies (TODO)
+
+
+### Summary of Folder Structure and File Contents
+
+--------------------------------------------------
+
+**code**
+
+- The main folder for Drasil source code and example implementations
+
+**doc**
+
+- Documents related to Drasil (contains the Contributor's Test)
+  
+**notes**
+
+- Assorted general/administrative notes
+
+**Papers**
+
+- Subdirectory for papers related to Drasil framework, GOOL
+  
+**People**
+
+- Contains contributions specific to some contributors (not necessarily to be implemented in Drasil)
+  
+README.md
+
+- This file
