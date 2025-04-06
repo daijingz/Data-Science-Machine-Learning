@@ -26,6 +26,15 @@ A combination of classification sub-projects:
 3. Movie Genre Classification Models (TODO)
 4. Deep Learning: Writing subtitles for movies (TODO)
 
+# Part 3: Movie Regression and Classification Problems
+
+References: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?resource=download
+
+A combination of classification sub-projects:
+1. [Analyze both datasets with visualized diagrams](https://github.com/daijingz/Data-Science-Machine-Learning/blob/main/Movies/Movie%20Data%20Analysis.ipynb) PENDING
+2. Movie Rating Prediction systems (TODO)
+3. Movie Genre Classification Models (TODO)
+4. Deep Learning: Writing subtitles for movies (TODO)
 
 ### Summary of Folder Structure and File Contents
 
