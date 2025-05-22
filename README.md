@@ -16,6 +16,8 @@ Now available in these 4 repositories:
 
 [Coursera Capstone](https://github.com/daijingz/Data-Science-Machine-Learning/tree/main/Coursera%20Capstone)
 
+Each course has a certificate.
+
 # Part 2: Movie Regression and Classification Problems
 
 References: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?resource=download
