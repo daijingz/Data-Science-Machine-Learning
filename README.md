@@ -41,15 +41,7 @@ A combination of classification sub-projects:
 ### Summary of Folder Structure and File Contents
 
 --------------------------------------------------
-
-**code**
-
-- The main folder for Drasil source code and example implementations
-
-**doc**
-
-- Documents related to Drasil (contains the Contributor's Test)
-  
+ 
 **notes**
 
 - Assorted general/administrative notes
