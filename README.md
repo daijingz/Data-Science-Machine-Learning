@@ -45,11 +45,7 @@ A combination of classification sub-projects:
 **notes**
 
 - Assorted general/administrative notes
-
-**Papers**
-
-- Subdirectory for papers related to Drasil framework, GOOL
-  
+- 
 **People**
 
 - Contains contributions specific to some contributors (not necessarily to be implemented in Drasil)
