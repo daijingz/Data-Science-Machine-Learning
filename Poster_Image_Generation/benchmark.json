@@ -1,0 +1,34 @@
+{
+  "task1": {
+    "prompt": "Create a one-scene cinematic movie poster featuring only two characters from the input images. Add a meaningful movie title. 4k, highly detailed.",
+    "negative_prompt": "",
+    "characters": [
+      {
+        "prompt": "A cool man with a charming smile.",
+        "negative_prompt": "",
+        "image_path": "./images/trump.jpg"
+      },
+      {
+        "prompt": "A beautiful woman with a joyful expression.",
+        "negative_prompt": "",
+        "image_path": "./images/biden.jpg"
+      }
+    ]
+  },
+  "task2": {
+    "prompt": "Close-up photo of the happy smiles on the faces of the cool man and beautiful woman as they leave the island with the treasure, sail back to the vacation beach, and begin their love story, 35mm photograph, film, professional, 4k, highly detailed.",
+    "negative_prompt": "",
+    "characters": [
+      {
+        "prompt": "A cool man with a charming smile.",
+        "negative_prompt": "",
+        "image_path": "./images/trump.jpg"
+      },
+      {
+        "prompt": "A beautiful woman with a joyful expression.",
+        "negative_prompt": "",
+        "image_path": "./images/biden.jpg"
+      }
+    ]
+  }
+}
